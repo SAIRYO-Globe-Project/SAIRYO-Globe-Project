@@ -1,1 +1,1 @@
-SAIRYO-Globe-Project
+Globe-PoC-Web

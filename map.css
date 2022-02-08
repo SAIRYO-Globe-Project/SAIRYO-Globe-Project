@@ -1,0 +1,26 @@
+/*Style settings for the map*/
+#map {height: 100vh; width: 100vw;}
+
+/*Style settings for the markers*/
+.marker {
+    background-image: url('mapbox-icon.png');
+    background-size: cover;
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    cursor: pointer;
+}
+
+
+/*Style settings for the popups*/
+.mapboxgl-popup {
+    max-width: 200px;
+}
+
+
+/*Style settings for the contents of the pop up*/
+.mapboxgl-popup-content {
+    text-align: center;
+    font-family: 'Open Sans', sans-serif;
+}
+
